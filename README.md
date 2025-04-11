@@ -49,4 +49,4 @@
 
 ```text
 Python · Git · HTML/CSS · C++ · Bash  
-Изучаю: Django · FastAPI · PostgreSQL · AI/ML
+Изучаю: Django · FastAPI · SQLite · AI/ML
