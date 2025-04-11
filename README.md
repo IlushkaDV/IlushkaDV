@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://v1.pinimg.com/videos/mc/720p/da/3d/7c/da3d7c3c1bd2f76af37aa34e1ffeafd2.mp4" alt="bmw" width="100%"/>
+  <img src="bmw.gif" alt="анимация" width="100%">
 </p>
 
 ---
